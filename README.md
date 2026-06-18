@@ -33,12 +33,16 @@ This repository is currently being prepared. The planned release includes:
 
 The repository structure will follow the paths used in the analysis notebook:
 
+
 ```text
 .
 ├── README.md
 ├── results-survey.xlsx
 ├── ux_documentation_survey_analysis.ipynb
 ├── requirements_survey_analysis.txt
+├── questionnaire/
+│   ├── All-Questions-from_Documentation of User Research Findings and AI Support.pdf
+│   └── Alle-Fragen-von_Documentation of User Research Findings and AI Support-DE.pdf
 └── survey_analysis_outputs_english/
     ├── figures_pdf/
     │   ├── 05_experience.pdf
