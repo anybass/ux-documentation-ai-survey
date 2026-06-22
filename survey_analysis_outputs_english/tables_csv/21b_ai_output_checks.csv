@@ -1,0 +1,10 @@
+item,column,count,percent
+I do not systematically check AI outputs.,C7[SQ008]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [I do not systematically check AI outputs.],0,0.0
+Other,C7[other]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [Other],0,0.0
+I ask another person / the team to review the output.,C7[SQ004]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [I ask another person / the team to review the output.],1,20.0
+We use formal quality criteria or checklists.,C7[SQ005]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [We use formal quality criteria or checklists.],1,20.0
+I usually rely on the output if it seems plausible.,C7[SQ007]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [I usually rely on the output if it seems plausible.],1,20.0
+I check only if something seems suspicious.,C7[SQ003]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [I check only if something seems suspicious.],2,40.0
+We use source links or citations provided by the tool.,C7[SQ006]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [We use source links or citations provided by the tool.],4,80.0
+I check selected parts of the output.,C7[SQ002]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [I check selected parts of the output.],4,80.0
+I compare outputs with the original source material.,C7[SQ001]. How do you usually check AI-generated outputs? You may use the comment fields to briefly describe how you do this in practice. [I compare outputs with the original source material.],5,100.0

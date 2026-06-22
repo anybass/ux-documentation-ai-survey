@@ -1,0 +1,14 @@
+item,column,count,percent
+Condens AI features,C2[SQ012]. Which AI-based tools or AI features have you used for user research documentation? [Condens AI features],0,0.0
+NotebookLM,C2[SQ005]. Which AI-based tools or AI features have you used for user research documentation? [NotebookLM],0,0.0
+Dovetail AI features,C2[SQ011]. Which AI-based tools or AI features have you used for user research documentation? [Dovetail AI features],0,0.0
+Miro AI,C2[SQ009]. Which AI-based tools or AI features have you used for user research documentation? [Miro AI],1,20.0
+Perplexity / Spaces,C2[SQ007]. Which AI-based tools or AI features have you used for user research documentation? [Perplexity / Spaces],1,20.0
+Notion AI,C2[SQ008]. Which AI-based tools or AI features have you used for user research documentation? [Notion AI],1,20.0
+Other,C2[other]. Which AI-based tools or AI features have you used for user research documentation? [Other],1,20.0
+FigJam / Figma AI features,C2[SQ010]. Which AI-based tools or AI features have you used for user research documentation? [FigJam / Figma AI features],2,40.0
+Microsoft Copilot,C2[SQ003]. Which AI-based tools or AI features have you used for user research documentation? [Microsoft Copilot],2,40.0
+Google Gemini,C2[SQ004]. Which AI-based tools or AI features have you used for user research documentation? [Google Gemini],2,40.0
+Translation / transcription tools with AI features,C2[SQ013]. Which AI-based tools or AI features have you used for user research documentation? [Translation / transcription tools with AI features],3,60.0
+ChatGPT / custom GPTs / projects,C2[SQ002]. Which AI-based tools or AI features have you used for user research documentation? [ChatGPT / custom GPTs / projects],3,60.0
+Claude / Claude Projects,C2[SQ006]. Which AI-based tools or AI features have you used for user research documentation? [Claude / Claude Projects],3,60.0

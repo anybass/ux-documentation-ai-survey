@@ -1,0 +1,26 @@
+item,column,count,percent
+Design and prototyping tools: Moqups,B2A4[SQ007]. Design and prototyping tools: [Moqups],1,14.285714285714285
+Note-taking tools: Obsidian,B2A7[003]. Note-taking tools: [Obsidian],1,14.285714285714285
+Office tools: Google Sheets,B2A6[SQ007]. Office tools: [Google Sheets],1,14.285714285714285
+Qualitative analysis tools: Other,B2A2[other]. Qualitative analysis tools: [Other],1,14.285714285714285
+Qualitative analysis tools: NVivo,B2A2[SQ003]. Qualitative analysis tools: [NVivo],1,14.285714285714285
+Note-taking tools: Evernote,B2A7[005]. Note-taking tools: [Evernote],2,28.57142857142857
+Office tools: Google Docs,B2A6[SQ005]. Office tools: [Google Docs],2,28.57142857142857
+Note-taking tools: Other,B2A7[other]. Note-taking tools: [Other],2,28.57142857142857
+Whiteboard tools: FigJam,B2A3[SQ004]. Whiteboard tools: [FigJam],2,28.57142857142857
+Qualitative analysis tools: MAXQDA,B2A2[SQ002]. Qualitative analysis tools: [MAXQDA],2,28.57142857142857
+"Wikis, project, and documentation tools: Jira","B2A5[SQ004]. Wikis, project, and documentation tools: [Jira]",2,28.57142857142857
+Office tools: Google Slides,B2A6[SQ006]. Office tools: [Google Slides],2,28.57142857142857
+Qualitative analysis tools: ATLAS.ti,B2A2[SQ004]. Qualitative analysis tools: [ATLAS.ti],2,28.57142857142857
+Office tools: Excel,B2A6[SQ004]. Office tools: [Excel],3,42.857142857142854
+"Wikis, project, and documentation tools: GitHub / GitLab","B2A5[SQ006]. Wikis, project, and documentation tools: [GitHub / GitLab]",3,42.857142857142854
+Other: Local folders / shared drives,B2A8[SQ002]. Other: [Local folders / shared drives],3,42.857142857142854
+"Wikis, project, and documentation tools: SharePoint","B2A5[SQ005]. Wikis, project, and documentation tools: [SharePoint]",3,42.857142857142854
+User research repositories: Other,B2A1[other]. User research repositories: [Other],4,57.14285714285714
+Office tools: PowerPoint,B2A6[SQ003]. Office tools: [PowerPoint],4,57.14285714285714
+"Wikis, project, and documentation tools: Confluence","B2A5[SQ002]. Wikis, project, and documentation tools: [Confluence]",5,71.42857142857143
+Other: Recording tools,B2A8[SQ004]. Other: [Recording tools],5,71.42857142857143
+Other: Transcription tools,B2A8[SQ003]. Other: [Transcription tools],5,71.42857142857143
+Office tools: Word,B2A6[SQ002]. Office tools: [Word],6,85.71428571428571
+Whiteboard tools: Miro,B2A3[SQ002]. Whiteboard tools: [Miro],6,85.71428571428571
+Design and prototyping tools: Figma,B2A4[SQ002]. Design and prototyping tools: [Figma],6,85.71428571428571

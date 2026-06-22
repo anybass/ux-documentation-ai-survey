@@ -1,0 +1,10 @@
+item,column,count,percent
+Product manager,A2[SQ003]. Which of the following best describes your current or most recent role? [Product manager],1,5.88235294117647
+Requirements engineer,A2[SQ004]. Which of the following best describes your current or most recent role? [Requirements engineer],1,5.88235294117647
+Other,A2[other]. Which of the following best describes your current or most recent role? [Other],1,5.88235294117647
+UX Manager,A2[SQ006]. Which of the following best describes your current or most recent role? [UX Manager],1,5.88235294117647
+Consultant,A2[SQ005]. Which of the following best describes your current or most recent role? [Consultant],2,11.76470588235294
+Student,A2[SQ008]. Which of the following best describes your current or most recent role? [Student],3,17.647058823529413
+Designer,A2[SQ002]. Which of the following best describes your current or most recent role? [Designer],5,29.411764705882355
+User researcher,A2[SQ001]. Which of the following best describes your current or most recent role? [User researcher],8,47.05882352941176
+Academic researcher,A2[SQ007]. Which of the following best describes your current or most recent role? [Academic researcher],9,52.94117647058824

@@ -1,0 +1,9 @@
+item,column,count,percent
+I don’t know,B3[SQ007]. How is user research documentation usually organized in your work? [I don’t know],0,0.0
+Other,B3[other]. How is user research documentation usually organized in your work? [Other],0,0.0
+In a product-specific repository,B3[SQ003]. How is user research documentation usually organized in your work? [In a product-specific repository],1,8.333333333333332
+Mostly in personal notes or local files,B3[SQ005]. How is user research documentation usually organized in your work? [Mostly in personal notes or local files],2,16.666666666666664
+In a team-specific repository,B3[SQ004]. How is user research documentation usually organized in your work? [In a team-specific repository],3,25.0
+"Mostly ad hoc, without a consistent structure","B3[SQ006]. How is user research documentation usually organized in your work? [Mostly ad hoc, without a consistent structure]",3,25.0
+In a cross-project repository,B3[SQ002]. How is user research documentation usually organized in your work? [In a cross-project repository],5,41.66666666666667
+Separately for each study/project,B3[SQ001]. How is user research documentation usually organized in your work? [Separately for each study/project],7,58.333333333333336

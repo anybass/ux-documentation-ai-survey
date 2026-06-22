@@ -1,0 +1,11 @@
+item,column,count,percent
+Other,F1[other]. Which features would make AI-supported documentation more trustworthy? [Other],0,0.0
+Commenting and approval workflows,F1[SQ007]. Which features would make AI-supported documentation more trustworthy? [Commenting and approval workflows],2,28.57142857142857
+Local or organization-internal processing,F1[SQ009]. Which features would make AI-supported documentation more trustworthy? [Local or organization-internal processing],2,28.57142857142857
+Ability to compare alternative interpretations,F1[SQ006]. Which features would make AI-supported documentation more trustworthy? [Ability to compare alternative interpretations],3,42.857142857142854
+Confidence indicators,F1[SQ003]. Which features would make AI-supported documentation more trustworthy? [Confidence indicators],3,42.857142857142854
+Control over which data AI can access,F1[SQ008]. Which features would make AI-supported documentation more trustworthy? [Control over which data AI can access],4,57.14285714285714
+Version history of human and AI edits,F1[SQ005]. Which features would make AI-supported documentation more trustworthy? [Version history of human and AI edits],4,57.14285714285714
+Direct links from AI outputs to source excerpts,F1[SQ001]. Which features would make AI-supported documentation more trustworthy? [Direct links from AI outputs to source excerpts],6,85.71428571428571
+Explanation of how outputs were generated,F1[SQ004]. Which features would make AI-supported documentation more trustworthy? [Explanation of how outputs were generated],6,85.71428571428571
+Clear marking of AI-generated content,F1[SQ002]. Which features would make AI-supported documentation more trustworthy? [Clear marking of AI-generated content],7,100.0

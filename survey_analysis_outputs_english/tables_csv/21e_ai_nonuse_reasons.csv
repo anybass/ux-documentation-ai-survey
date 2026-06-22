@@ -1,0 +1,12 @@
+item,column,count,percent
+Concerns about AI quality and research integrity: I do not trust the quality of AI outputs,C10A3[001]. Concerns about AI quality and research integrity [I do not trust the quality of AI outputs],0,0.0
+Other,C10A4. Other,0,0.0
+Data sensitivity and organizational restrictions: Data protection / privacy concerns,C10A1[SQ001]. Data sensitivity and organizational restrictions [Data protection / privacy concerns],0,0.0
+Data sensitivity and organizational restrictions: Company / client policy does not allow it,C10A1[SQ002]. Data sensitivity and organizational restrictions [Company / client policy does not allow it],0,0.0
+Concerns about AI quality and research integrity: I am concerned about losing context,C10A3[003]. Concerns about AI quality and research integrity [I am concerned about losing context],1,50.0
+"Access, skills, and adoption barriers: I do not know suitable tools","C10A2[SQ002]. Access, skills, and adoption barriers [I do not know suitable tools]",1,50.0
+"Access, skills, and adoption barriers: I prefer manual analysis and documentation","C10A2[SQ001]. Access, skills, and adoption barriers [I prefer manual analysis and documentation]",1,50.0
+"Access, skills, and adoption barriers: I lack training","C10A2[SQ003]. Access, skills, and adoption barriers [I lack training]",1,50.0
+Concerns about AI quality and research integrity: I am concerned about hallucinations / bias,C10A3[002]. Concerns about AI quality and research integrity [I am concerned about hallucinations / bias],1,50.0
+Data sensitivity and organizational restrictions: I work with sensitive participant data,C10A1[SQ003]. Data sensitivity and organizational restrictions [I work with sensitive participant data],1,50.0
+Concerns about AI quality and research integrity: I am concerned that AI could weaken my own understanding,C10A3[004]. Concerns about AI quality and research integrity [I am concerned that AI could weaken my own understanding],2,100.0

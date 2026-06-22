@@ -1,0 +1,8 @@
+label,n,Never,Rarely,Sometimes,Often,Very often,mean_score
+"AI raised privacy, confidentiality, or data protection concerns",4,0.0,100.0,0.0,0.0,0.0,2.0
+AI reduced my own reflection on the material,5,20.0,20.0,60.0,0.0,0.0,2.4
+AI created incorrect or weak links to source material,4,0.0,50.0,50.0,0.0,0.0,2.5
+AI overgeneralized from limited material,5,0.0,20.0,40.0,40.0,0.0,3.2
+AI produced unsupported or misleading interpretations,5,0.0,20.0,20.0,60.0,0.0,3.4
+AI outputs required substantial manual correction,5,0.0,0.0,40.0,40.0,20.0,3.8
+AI missed important context,5,0.0,0.0,20.0,60.0,20.0,4.0
